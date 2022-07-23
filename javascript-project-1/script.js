@@ -1,1 +1,1 @@
-var pancakes = 654;
+var pancakes = 6045;
